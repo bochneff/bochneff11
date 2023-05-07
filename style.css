@@ -1,0 +1,33 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color: aqua;
+    padding: 40px 0px 40px 25px;
+}
+.link-header{
+    font-size: 36px;
+    padding: 5px 10px 5px 10p;
+    color: red;
+
+}
+
+h1{
+    text-align: center;
+    color: green;
+    font-size: 56px;
+}
+p{
+    font-size: 24px;
+    margin-left: 60px;
+}
+
+nav{
+    padding: 35px 40px 0px 40px;
+}
+footer{
+    padding: 65px 0px 80px 80px;
+}
+.social{
+    margin-right: 60px;
+}
